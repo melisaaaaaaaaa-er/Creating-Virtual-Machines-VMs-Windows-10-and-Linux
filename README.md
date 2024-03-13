@@ -1,4 +1,4 @@
-# Creating-Virtual-Machines-VMs-Windows-10-and-Linu# Creating Virtual Machines (VMs) - Windows 10 and Linux
+# Creating Virtual Machines (VMs) - Windows 10 and Linux
 
 <h2>Deployment and Configuration Steps:</h2>
 
